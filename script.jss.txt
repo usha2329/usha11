@@ -1,0 +1,5 @@
+ <script>
+        function red(da) {
+            document.getElementById('t4').style.backgroundColor = document.getElementById(da).value;
+        }
+    </script>
